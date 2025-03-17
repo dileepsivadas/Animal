@@ -1,2 +1,2 @@
 # Animal
-Repo for Animal
+Repo for Animal Type
